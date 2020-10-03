@@ -1,6 +1,6 @@
 import { StatusBar } from 'expo-status-bar';
 import React, { Component } from 'react';
-import { StyleSheet, Text,TextInput,Image, View } from 'react-native';
+import { StyleSheet, Text,TextInput,Image, View, } from 'react-native';
 import BookTransaction from './screens/BookTranscationScreen';
 import searchScreen from './screens/SearchScreen';
 import {createAppContainer} from 'react-navigation';
